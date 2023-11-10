@@ -10,13 +10,15 @@
     <h1>LOGIN</h1>
     <p>Ini adalah paragraf nama guru</p>
     <ul>
-        <li>Esmeralda</li>
-        <li>Barats</li>
+        <li>Baxia</li>
+        <li>Layla</li>
         <li>Sun</li>
         <li>Lapu-lapu</li>
         <li>Zilong</li>
         <li>Terizla</li>
         <li>Uranus</li>
+        <li>Leomord</li>
+        <li>Akai</li>
     </ul>
 </body>
 </html>
