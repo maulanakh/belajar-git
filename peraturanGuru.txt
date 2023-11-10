@@ -1,0 +1,11 @@
+It is a perfect tool for generating a fake address, random phone number, fake email, random username and password. 
+We can even generate fake payment details for Visa, MasterCard, American Express and even IBAN.
+Untuk mengubah visibilitas repositori di GitHub dari privat menjadi publik, Anda dapat mengikuti langkah-langkah berikut:
+
+Buka Repositori di GitHub:
+Buka halaman repositori yang ingin Anda ubah visibilitasnya di situs web GitHub.
+
+Pilih Pengaturan (Settings):
+Di bagian atas halaman repositori, klik tab "Settings" (Pengaturan).
+
+Pilih Opzioni "Options" di Sidebar:
