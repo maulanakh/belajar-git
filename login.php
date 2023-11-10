@@ -8,5 +8,13 @@
 </head>
 <body>
     <h1>LOGIN</h1>
+    <p>Ini adalah paragraf nama guru</p>
+    <ul>
+        <li>Esmeralda</li>
+        <li>Barats</li>
+        <li>Sun</li>
+        <li>Lapu-lapu</li>
+        <li>Zilong</li>
+    </ul>
 </body>
 </html>
