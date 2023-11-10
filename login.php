@@ -15,6 +15,8 @@
         <li>Sun</li>
         <li>Lapu-lapu</li>
         <li>Zilong</li>
+        <li>Terizla</li>
+        <li>Uranus</li>
     </ul>
 </body>
 </html>
