@@ -10,8 +10,8 @@
     <h1>LOGIN</h1>
     <p>Ini adalah paragraf nama guru</p>
     <ul>
-        <li>Baxia</li>
-        <li>Layla</li>
+        <li>Ixia</li>
+        <li>Barats</li>
         <li>Sun</li>
         <li>Lapu-lapu</li>
         <li>Zilong</li>
@@ -19,6 +19,8 @@
         <li>Uranus</li>
         <li>Leomord</li>
         <li>Akai</li>
+        <li>Miya</li>
+        <li>Moskov</li>
     </ul>
 </body>
 </html>
